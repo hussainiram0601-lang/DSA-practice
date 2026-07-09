@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +21,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->

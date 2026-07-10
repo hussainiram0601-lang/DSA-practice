@@ -88,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0054-spiral-matrix/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 <!---LeetCode Topics End-->

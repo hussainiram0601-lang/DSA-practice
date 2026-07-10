@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -77,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->

@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -99,4 +100,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->

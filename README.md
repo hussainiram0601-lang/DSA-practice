@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -61,17 +62,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -120,4 +124,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0001-two-sum/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->

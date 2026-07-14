@@ -4,16 +4,22 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        mx = max(nums)
-        freq = [0]*(mx+1)
-        for i in nums:
-            freq[i]+=1
-
-        idx = 0
-        for i in range(0,mx+1):
-            while freq[i]>0:
-                nums[idx]=i
-                idx+=1
-                freq[i]-=1
+        l = 0
+        r = n-1
+        i = 0
+        while i<=r:
+            if nums[i]==1:
+                i+=1
+            elif nums[i]==0:
+                temp = nums[i]
+                nums[i]=nums[l]
+                nums[l]=temp
+                i+=1
+                l+=1
+            else:
+                temp= nums[i]
+                nums[i]= nums[r]
+                nums[r]=temp
+                r-=1
 
         

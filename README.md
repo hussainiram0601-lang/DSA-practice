@@ -196,4 +196,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->

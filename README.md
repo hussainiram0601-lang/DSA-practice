@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0704-binary-search](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |

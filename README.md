@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->

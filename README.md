@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -232,6 +234,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->

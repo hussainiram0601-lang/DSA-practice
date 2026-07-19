@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Depth-First Search
@@ -265,8 +267,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->

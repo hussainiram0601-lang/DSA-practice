@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0496-next-greater-element-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0496-next-greater-element-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Queue
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Combinatorics
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |

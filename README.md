@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |

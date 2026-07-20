@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Combinatorics
@@ -279,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->

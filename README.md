@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0912-sort-an-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -377,4 +381,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->

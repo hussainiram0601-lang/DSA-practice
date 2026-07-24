@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Divide and Conquer
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -216,11 +218,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |

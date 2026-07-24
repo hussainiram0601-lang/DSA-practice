@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -218,12 +221,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Hash Table

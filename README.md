@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1929-concatenation-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |
+| [1929-concatenation-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |

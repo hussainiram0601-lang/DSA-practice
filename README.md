@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0322-coin-change](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0207-course-schedule/) | Medium |
+| [0322-coin-change](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0743-network-delay-time](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0743-network-delay-time/) | Medium |
@@ -466,9 +469,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->

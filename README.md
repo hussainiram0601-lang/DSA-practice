@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0198-house-robber/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |

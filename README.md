@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -503,4 +505,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->

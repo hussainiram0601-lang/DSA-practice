@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [0997-find-the-town-judge](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1406-stone-game-iii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1406-stone-game-iii/) | Hard |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0743-network-delay-time/) | Medium |
+| [0997-find-the-town-judge](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Divide and Conquer
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
+| [0997-find-the-town-judge](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3731-find-missing-elements](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3731-find-missing-elements/) | Easy |

@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |

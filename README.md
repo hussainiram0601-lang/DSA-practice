@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1929-concatenation-of-array/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |

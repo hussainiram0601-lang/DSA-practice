@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1406-stone-game-iii/) | Hard |
+| [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Recursion
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -189,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Graph Theory

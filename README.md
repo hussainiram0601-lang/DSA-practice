@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |

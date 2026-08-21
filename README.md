@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0743-network-delay-time](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0743-network-delay-time/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

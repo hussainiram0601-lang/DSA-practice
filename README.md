@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |

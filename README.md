@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1406-stone-game-iii/) | Hard |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0912-sort-an-array/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0997-find-the-town-judge](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |

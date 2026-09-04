@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0427-construct-quad-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0427-construct-quad-tree/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0704-binary-search](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0704-binary-search/) | Easy |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -558,11 +561,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0474-ones-and-zeroes/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0474-ones-and-zeroes/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |

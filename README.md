@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0997-find-the-town-judge](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0997-find-the-town-judge/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |

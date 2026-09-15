@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0997-find-the-town-judge](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0997-find-the-town-judge/) | Easy |
+| [1129-shortest-path-with-alternating-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |

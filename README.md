@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
@@ -502,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

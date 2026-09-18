@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -537,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -624,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1514-path-with-maximum-probability](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1514-path-with-maximum-probability/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 <!---LeetCode Topics End-->

@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0427-construct-quad-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0427-construct-quad-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1260-shift-2d-grid/) | Easy |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |

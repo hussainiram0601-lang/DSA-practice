@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0707-design-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |

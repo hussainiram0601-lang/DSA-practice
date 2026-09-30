@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1020-number-of-enclaves](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0997-find-the-town-judge](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0997-find-the-town-judge/) | Easy |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -644,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

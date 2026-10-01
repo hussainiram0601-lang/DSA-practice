@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1406-stone-game-iii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1470-shuffle-the-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1470-shuffle-the-array/) | Easy |
+| [1472-design-browser-history](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1626-best-team-with-no-conflicts/) | Medium |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1472-design-browser-history](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Combinatorics
@@ -509,10 +512,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0707-design-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1472-design-browser-history/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1472-design-browser-history/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -661,4 +666,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->

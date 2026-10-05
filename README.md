@@ -673,4 +673,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1472-design-browser-history/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->

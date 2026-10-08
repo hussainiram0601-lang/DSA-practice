@@ -682,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0180-consecutive-numbers](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0184-department-highest-salary/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1683-invalid-tweets](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1683-invalid-tweets/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1873-calculate-special-bonus/) | Easy |

@@ -684,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0184-department-highest-salary/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1683-invalid-tweets](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1683-invalid-tweets/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |

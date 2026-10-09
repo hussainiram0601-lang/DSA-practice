@@ -686,5 +686,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1683-invalid-tweets](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1683-invalid-tweets/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->

@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1484-group-sold-products-by-the-date](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |

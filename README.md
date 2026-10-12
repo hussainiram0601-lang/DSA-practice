@@ -687,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1683-invalid-tweets](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1683-invalid-tweets/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->

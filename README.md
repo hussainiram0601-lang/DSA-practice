@@ -676,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0178-rank-scores/) | Medium |

@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |

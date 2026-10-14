@@ -696,4 +696,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-daily-leads-and-partners](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1873-calculate-special-bonus/) | Easy |
+| [1907-count-salary-categories](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1907-count-salary-categories/) | Medium |
 <!---LeetCode Topics End-->

@@ -690,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1158-market-analysis-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1158-market-analysis-i/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1280-students-and-examinations/) | Easy |

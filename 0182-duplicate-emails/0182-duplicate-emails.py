@@ -1,8 +1,7 @@
 import pandas as pd
 
 def duplicate_emails(employee: pd.DataFrame) -> pd.DataFrame:
-    grouped_emails = employee.groupby("email")
-    duplicate_groups = grouped_emails.filter(lambda group: len(group) > 1)
-    duplicate_emails = duplicate_groups[["email"]]
+    group_emails = employee.groupby('email').filter(lambda x: len(x)>1)
+    duplicate_emails = group_emails[['email']]
     result = duplicate_emails.drop_duplicates()
     return result

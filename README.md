@@ -701,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0577-employee-bonus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0626-exchange-seats](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0626-exchange-seats/) | Medium |

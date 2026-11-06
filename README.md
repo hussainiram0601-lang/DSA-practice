@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0058-length-of-last-word/) | Easy |
@@ -723,4 +726,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1795-rearrange-products-table](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1907-count-salary-categories](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1907-count-salary-categories/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->

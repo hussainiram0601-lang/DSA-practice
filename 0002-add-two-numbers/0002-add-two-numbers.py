@@ -4,30 +4,23 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        curr1 = l1
-        curr2 = l2
-        ans = ListNode(-1)
-        curr3 = ans
-        c = 0
-        while curr1!=None or curr2!=None:
-            total = c
-            c = 0
-            if curr1!=None:
-                total+=curr1.val
-                curr1 = curr1.next
-            if curr2!=None:
-                total+=curr2.val
-                curr2 = curr2.next
-            if total>9:
-                c=1
-                total-=10
-            newNode = ListNode(total)
-            curr3.next = newNode
-            curr3 = curr3.next
-        if c>0:
-            newNode = ListNode(c)
-            curr3.next = newNode
-        return ans.next
+    def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
+        dummy = ListNode()
+        curr = dummy
+        carry = 0
 
+        while l1 or l2 or carry:
+            v1 = l1.val if l1 else 0
+            v2 = l2.val if l2 else 0
+
+            val = v1 + v2 + carry
+            carry = val//10 
+            val = val % 10
+            curr.next = ListNode(val)
+
+            curr = curr.next
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
+
+        return dummy.next
         

@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0054-spiral-matrix/) | Medium |
@@ -645,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0046-permutations/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |

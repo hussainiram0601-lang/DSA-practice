@@ -4,7 +4,8 @@ class Solution:
         maxP = 0
         while r < len(prices):
             if prices[l] < prices[r]:
-                maxP = max(maxP , prices[r]- prices[l])
+                p = prices[r]- prices[l]
+                maxP = max(maxP , p)
             else:
                 l = r
             r+=1

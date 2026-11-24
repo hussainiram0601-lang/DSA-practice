@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1129-shortest-path-with-alternating-colors](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2359-find-closest-node-to-given-two-nodes/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |

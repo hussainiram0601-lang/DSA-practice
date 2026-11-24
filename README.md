@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0202-happy-number](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0326-power-of-three/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -563,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -614,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |

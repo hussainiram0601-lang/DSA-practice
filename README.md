@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |

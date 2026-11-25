@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0912-sort-an-array/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/hussainiram0601-lang/DSA-practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |

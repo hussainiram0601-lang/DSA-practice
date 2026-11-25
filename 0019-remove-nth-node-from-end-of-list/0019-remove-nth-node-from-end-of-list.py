@@ -10,12 +10,11 @@ class Solution:
         for i in range(n):
             fast = fast.next
         if fast == None:
-            head = head.next
-            return head
-        while fast.next!=None:
+            return head.next
+        while fast.next:
             fast = fast.next
-            slow= slow.next
-        
+            slow = slow.next
         slow.next = slow.next.next
         return head
+
         
